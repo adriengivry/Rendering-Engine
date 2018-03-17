@@ -18,3 +18,6 @@ You'll not find :
 
 
 Feel free to reuse this project and modify it. If someone is interested in doing OpenGL stuffs with it (Shaders, binding textures on meshes, lightings, cameras), enjoy using this architecture !
+
+## Class Diagram
+![alt text](doc/ClassDiagram.png?raw=true "Class Diagram")
