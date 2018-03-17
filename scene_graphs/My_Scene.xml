@@ -1,0 +1,13 @@
+<gameobjects>
+    <gameobject>
+        <name>Test</name>
+        <components>
+            <component>
+                <name>Transform</name>
+            </component>
+            <component>
+                <name>Light</name>
+            </component>
+        </components>
+    </gameobject>
+</gameobjects>

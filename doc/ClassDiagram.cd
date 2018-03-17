@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IManager" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACAAAAAAAAQAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\IManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Core::Debug::Log" Collapsed="true">
+    <Position X="11.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAFAAAAAAAQAAAiAAEEAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Log.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Core::System::Engine" Collapsed="true">
+    <Position X="0.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAEAASAQAQgAAAAAAUAAAAAAAAABAFBAAAQiAGQA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Engine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Core::System::InputManager" Collapsed="true">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAECADAAAAAIAAAAAAAAAAEAQAAEQUBAAYACAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\InputManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Core::System::SceneManager" Collapsed="true">
+    <Position X="5.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQACAAACBAAAkAgAAAAAAAAQEAAAAgAEAAAAACAAAQ=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\SceneManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Core::System::Window" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAACFAAAAABAAQAAAAAAQAAAAiAEAAACAiAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Window.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Core::System::Context::Driver" Collapsed="true">
+    <Position X="5.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQEAAAAAAAAAAAgBCAAABIAAAAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Driver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Core::System::Context::IContext" Collapsed="true">
+    <Position X="6.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAACAAAAACAAABAAAAAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\IContext.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Core::System::Context::Device" Collapsed="true">
+    <Position X="7.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgBAAAEAAIABgIBkAQBAAQAAAQAAACAABBAAAAAIAQ=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Device.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Util::ConfigLoader" Collapsed="true">
+    <Position X="11.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAECAAAgAAAAAABEAAAAAAAAAAACAAAACAAAE=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\ConfigLoader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Resource::TextureManager" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\TextureManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Resource::Texture" Collapsed="true">
+    <Position X="10.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAgAABAAAAAAAAAAAAAACAAAIAABAAEAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Texture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Resource::AResourceManager&lt;Derived, T&gt;" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgICAAAAAEAAAAAAACAEEAAAKAAAABAAQCACACAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\AResourceManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Object::AObject" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAABAAAAAAAAAAAAABAAAAAABAAAAAAARCAABAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\AObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Object::Scene" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAgAAAAAAAQAAAAAAAEAABAAAAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Object::AComponent" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAIAAAAAAAAAAAAAAAAAAAAAAAFAAAACAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\AComponent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Object::Transform" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAACAAAAAAAAQAAAAAAggAIAAEAgEAAIA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Transform.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Object::ABehaviour" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAABABAAAAAAABAAAAAAAIAAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\ABehaviour.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Object::Camera" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Object::Light" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Light.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Object::GameObject" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAACAAIEgAAAAIABBAgAACAIAAAEEAAAAYAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Object::MeshRenderer" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEgAMAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\MeshRenderer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Resource::MeshManager" Collapsed="true">
+    <Position X="12.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\MeshManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gyvr::Resource::Mesh" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEABgEEgAACAAAQAAAAAAAAAAQAAWAAAAAAEAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Mesh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Gyvr::Core::System::Context::GLFWdeleter" Collapsed="true">
+    <Position X="7.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Device.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gyvr::Math::Mat4" Collapsed="true">
+    <Position X="10.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgBAAQAAAAAAAAEAICASAAAAACIAAEAwAQAAgCI=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Mat4.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gyvr::Math::Vec2" Collapsed="true">
+    <Position X="12.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAAADggAAAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Vec2.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gyvr::Math::Vec3" Collapsed="true">
+    <Position X="10.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAEAAIAQAAAAAAAAAAAADgAQEAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Vec3.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gyvr::Math::Vec4" Collapsed="true">
+    <Position X="12.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAABAQAAAAAAAAAAAAjgAwgAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Vec4.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gyvr::Util::ISharedData" Collapsed="true">
+    <Position X="1.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\SharedContext.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gyvr::Util::EngineInfo" Collapsed="true">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\SharedContext.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gyvr::Util::SharedContext" Collapsed="true">
+    <Position X="2.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAACAAUAAAAAAAAAAAAAAAAAAAIQAAABAAAggA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\SharedContext.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Gyvr::Resource::Vertex" Collapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\adrie\Desktop\PGPM_GIVRY_A\architecture\include\Mesh.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

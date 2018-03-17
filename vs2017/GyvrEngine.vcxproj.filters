@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\config">
+      <UniqueIdentifier>{7e1636e0-1646-4805-87b6-614bacc42dd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Gyvr">
+      <UniqueIdentifier>{757e1e2f-904a-4048-8607-782a7ddbaafc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Gyvr\Core">
+      <UniqueIdentifier>{aba8504f-5352-473f-95ad-092ead2ccef5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Gyvr\Core\Debug">
+      <UniqueIdentifier>{46a19667-cb14-4f3f-b642-4999a4d23d7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Gyvr\Core\System">
+      <UniqueIdentifier>{de6c1b53-a847-4e25-85da-78baf3cdef5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Gyvr\Core\System\Context">
+      <UniqueIdentifier>{2da64c4c-dd99-4357-a6c9-ea5c54b82f75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Gyvr\Math">
+      <UniqueIdentifier>{92b31091-14b4-4783-a59b-8643da56b608}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Gyvr\Util">
+      <UniqueIdentifier>{8d61eae0-20ea-4ebb-9e77-ab6f2e3cf7f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Gyvr\Resource">
+      <UniqueIdentifier>{76494c16-998e-40bb-a80a-468f36f180bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Gyvr\Object">
+      <UniqueIdentifier>{dd2b2d4e-c84e-4fa8-8e1f-256ce8cd7d52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Gyvr\Object\Component">
+      <UniqueIdentifier>{a3715bd2-3261-4542-b3ac-00b366d2fd35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gyvr">
+      <UniqueIdentifier>{e5e78f11-e912-4ec8-9fff-09229e603249}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gyvr\Core">
+      <UniqueIdentifier>{40f8dde5-2af3-461b-90d0-fd89ef4b612f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gyvr\Core\System">
+      <UniqueIdentifier>{d6bcd187-8637-4abc-ab26-2e7453485dd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gyvr\Core\System\Context">
+      <UniqueIdentifier>{19b3e491-251f-40be-86d4-90c2cd6f5539}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gyvr\Core\Debug">
+      <UniqueIdentifier>{a7d824f9-8a6a-4bc3-b164-529f9d5a6097}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gyvr\Resource">
+      <UniqueIdentifier>{1a4cca38-7afe-478a-83fb-41391722a043}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gyvr\Object">
+      <UniqueIdentifier>{6021b868-33a3-47b7-8b55-17531bd2e0b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gyvr\Object\Component">
+      <UniqueIdentifier>{fba1ec31-2541-471d-bc2b-f1b9b1a7271b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gyvr\Util">
+      <UniqueIdentifier>{4ff2cfec-ed95-4286-9de7-9ffb61ef076c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gyvr\Math">
+      <UniqueIdentifier>{a488a76a-2e33-4aa6-b848-d54363b67856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Gyvr\Object\Component\Behaviour">
+      <UniqueIdentifier>{6ce3a7ee-4efc-44d9-9ec5-bdaae36314a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Gyvr\Object\Component\Behaviour">
+      <UniqueIdentifier>{2d813d7a-b1a1-4cdc-8b8e-3a8fc1ea9247}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\config\resources">
+      <UniqueIdentifier>{2f0137e5-87b1-4391-9f63-6da280af4b35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\doc">
+      <UniqueIdentifier>{61f9e73f-10c3-4219-9f1e-72b76dd0da3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\textures">
+      <UniqueIdentifier>{3bc61077-01b9-4068-8d38-9dfe97e08cf4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\Engine.cpp">
+      <Filter>Source Files\Gyvr\Core\System</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Window.cpp">
+      <Filter>Source Files\Gyvr\Core\System</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Main.cpp">
+      <Filter>Source Files\Gyvr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Transform.cpp">
+      <Filter>Source Files\Gyvr\Object\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\SceneManager.cpp">
+      <Filter>Source Files\Gyvr\Core\System</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Renderer.cpp">
+      <Filter>Source Files\Gyvr\Core\System</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ConfigLoader.cpp">
+      <Filter>Source Files\Gyvr\Util</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Driver.cpp">
+      <Filter>Source Files\Gyvr\Core\System\Context</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Device.cpp">
+      <Filter>Source Files\Gyvr\Core\System\Context</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Mat4.cpp">
+      <Filter>Source Files\Gyvr\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Vec2.cpp">
+      <Filter>Source Files\Gyvr\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Vec3.cpp">
+      <Filter>Source Files\Gyvr\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Vec4.cpp">
+      <Filter>Source Files\Gyvr\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\AObject.cpp">
+      <Filter>Source Files\Gyvr\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Scene.cpp">
+      <Filter>Source Files\Gyvr\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GameObject.cpp">
+      <Filter>Source Files\Gyvr\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Camera.cpp">
+      <Filter>Source Files\Gyvr\Object\Component\Behaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Light.cpp">
+      <Filter>Source Files\Gyvr\Object\Component\Behaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ABehaviour.cpp">
+      <Filter>Source Files\Gyvr\Object\Component\Behaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\AComponent.cpp">
+      <Filter>Source Files\Gyvr\Object\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\InputManager.cpp">
+      <Filter>Source Files\Gyvr\Core\System</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Log.cpp">
+      <Filter>Source Files\Gyvr\Core\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Assertion.cpp">
+      <Filter>Source Files\Gyvr\Core\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Date.cpp">
+      <Filter>Source Files\Gyvr\Util</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\MeshRenderer.cpp">
+      <Filter>Source Files\Gyvr\Object\Component\Behaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Texture.cpp">
+      <Filter>Source Files\Gyvr\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\Mesh.cpp">
+      <Filter>Source Files\Gyvr\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GraphParser.cpp">
+      <Filter>Source Files\Gyvr\Util</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\tinyxml2.cpp">
+      <Filter>Source Files\Gyvr\Util</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\SharedContext.h">
+      <Filter>Header Files\Gyvr\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Engine.h">
+      <Filter>Header Files\Gyvr\Core\System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Window.h">
+      <Filter>Header Files\Gyvr\Core\System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Transform.h">
+      <Filter>Header Files\Gyvr\Object\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SceneManager.h">
+      <Filter>Header Files\Gyvr\Core\System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Renderer.h">
+      <Filter>Header Files\Gyvr\Core\System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ConfigLoader.h">
+      <Filter>Header Files\Gyvr\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Mat4.h">
+      <Filter>Header Files\Gyvr\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Vec2.h">
+      <Filter>Header Files\Gyvr\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Vec3.h">
+      <Filter>Header Files\Gyvr\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Vec4.h">
+      <Filter>Header Files\Gyvr\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\IContext.h">
+      <Filter>Header Files\Gyvr\Core\System\Context</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Driver.h">
+      <Filter>Header Files\Gyvr\Core\System\Context</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\MathShared.h">
+      <Filter>Header Files\Gyvr\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Device.h">
+      <Filter>Header Files\Gyvr\Core\System\Context</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\IManager.h">
+      <Filter>Header Files\Gyvr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\AObject.h">
+      <Filter>Header Files\Gyvr\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Scene.h">
+      <Filter>Header Files\Gyvr\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\GameObject.h">
+      <Filter>Header Files\Gyvr\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Camera.h">
+      <Filter>Header Files\Gyvr\Object\Component\Behaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Light.h">
+      <Filter>Header Files\Gyvr\Object\Component\Behaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\ABehaviour.h">
+      <Filter>Header Files\Gyvr\Object\Component\Behaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\AComponent.h">
+      <Filter>Header Files\Gyvr\Object\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\InputManager.h">
+      <Filter>Header Files\Gyvr\Core\System</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Log.h">
+      <Filter>Header Files\Gyvr\Core\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Assertion.h">
+      <Filter>Header Files\Gyvr\Core\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Date.h">
+      <Filter>Header Files\Gyvr\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\MeshRenderer.h">
+      <Filter>Header Files\Gyvr\Object\Component\Behaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Mesh.h">
+      <Filter>Header Files\Gyvr\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\Texture.h">
+      <Filter>Header Files\Gyvr\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\TextureManager.h">
+      <Filter>Header Files\Gyvr\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\AResourceManager.h">
+      <Filter>Header Files\Gyvr\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\MeshManager.h">
+      <Filter>Header Files\Gyvr\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\GraphParser.h">
+      <Filter>Header Files\Gyvr\Util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\tinyxml2.h">
+      <Filter>Header Files\Gyvr\Util</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\config\window.ini">
+      <Filter>Resource Files\config</Filter>
+    </None>
+    <None Include="..\config\engine.ini">
+      <Filter>Resource Files\config</Filter>
+    </None>
+    <None Include="..\config\general.ini">
+      <Filter>Resource Files\config</Filter>
+    </None>
+    <None Include="..\config\resources\textures.cfg">
+      <Filter>Resource Files\config\resources</Filter>
+    </None>
+    <None Include="..\doc\ClassDiagram.cd">
+      <Filter>Resource Files\doc</Filter>
+    </None>
+    <None Include="..\config\resources\meshes.cfg">
+      <Filter>Resource Files\config\resources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\resources\textures\awesomeface.png">
+      <Filter>Resource Files\textures</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

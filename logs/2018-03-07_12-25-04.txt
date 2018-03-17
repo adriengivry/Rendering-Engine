@@ -1,0 +1,4 @@
+[INFO] Engine setup completed
+[INFO] Start purging all resources
+[INFO] Removing: Awesome_Face
+[INFO] Purging completed

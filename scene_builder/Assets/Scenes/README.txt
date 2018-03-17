@@ -1,0 +1,1 @@
+Every scene in GyvrBuilder must have the root prefab to work ! Otherwise, GyvrEngine will not show (So sad)
